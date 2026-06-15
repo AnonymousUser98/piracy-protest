@@ -14,8 +14,8 @@ Some homebrew communities use this page: https://3ds.eiphax.tech/piracy.html
 This has a lot of problems, and it's just completely wrong.
 
 Here's a corrected version of the not-so-handy list:
-- <strikethrough>It is sorta legal-ish to hack your console.</strikethrough> Hacking your console for your own personal use is **perfectly legal**.
-- <strikethrough>It is sorta legal-ish to make a backup of a piece of software that you legaly purchased and have full ownership of.</strikethrough> There is nothing wrong with dumping your game for non-commercial use. Dumping your game for the purposes of content preservation is also fine, especially if it's free.
+- ~~It is sorta legal-ish to hack your console.~~ Hacking your console for your own personal use is **perfectly legal**.
+- ~~It is sorta legal-ish to make a backup of a piece of software that you legaly purchased and have full ownership of.~~ There is nothing wrong with dumping your game for non-commercial use. Dumping your game for the purposes of content preservation is also fine, especially if it's free.
 - There is nothing wrong with downloading a ROM of a game you legally own.
   - This is especially true for people with broken games and people that don't want to buy the extra hardware needed to dump their game.
 - Renting a game and dumping it before returning it is piracy (this is the one thing the original list got right).
