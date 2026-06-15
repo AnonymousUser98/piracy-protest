@@ -15,10 +15,11 @@ This has a lot of problems, and it's just completely wrong.
 
 Here's a corrected version of the not-so-handy list:
 - <strikethrough>It is sorta legal-ish to hack your console.</strikethrough> Hacking your console for your own personal use is **perfectly legal**.
-- <strikethrough>It is sorta legal-ish to make a backup of a piece of software that you legaly purchased and have full ownership of.</strikethrough> There is nothing wrong with dumping your game for non-commercial use.
+- <strikethrough>It is sorta legal-ish to make a backup of a piece of software that you legaly purchased and have full ownership of.</strikethrough> There is nothing wrong with dumping your game for non-commercial use. Dumping your game for the purposes of content preservation is also fine, especially if it's free.
 - There is nothing wrong with downloading a ROM of a game you legally own.
   - This is especially true for people with broken games and people that don't want to buy the extra hardware needed to dump their game.
 - Renting a game and dumping it before returning it is piracy (this is the one thing the original list got right).
+- If your game is lost or stolen, you can still keep your existing dump and use it for personal use. As long as you don't download any new dumps, it's not piracy.
 - It is perfectly legal to download a ROM of software that was always free (this is content preservation, not piracy). Just make sure you don't use it commercially or break any terms and conditions that it might have.
 - ROM hacks are perfectly legal. They don't provide the original ROM. While they do technically create derivitave works of the copyrighted software, using it for your own personal enjoyment counts as fair use.
 - People usually avoid piracy because it harms developers. If you already bought the game, the game is no longer officially available, or the game is free, then it doesn't harm the developer.
