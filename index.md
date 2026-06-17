@@ -26,3 +26,9 @@ Here's a corrected version of the not-so-handy list:
 
 # Advice for Homebrew Communities
 If you have a no-piracy rule, it means you can't assist with piracy. It does **not** mean you should discriminate against pirates or ban them from your community just because they have pirated software. As long as they don't help others with piracy, it doesn't break the rule.
+
+# The Law
+**DISCLAIMER:** This is not legal advice. I'm not a lawyer. I'm not encouraging or suggesting unethical activity.
+
+Apparently, there's a lot of complications with the DMCA laws, so if you live in the US, you'll probably want to follow ethics instead of laws.
+If you're not in the US, then never mind.
